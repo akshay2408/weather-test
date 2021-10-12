@@ -1,4 +1,4 @@
-# Weather App with TypeScript
+# Weather App
 
 ## How to use
 Clone repo and 
